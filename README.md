@@ -6,4 +6,4 @@ A portfolio showcasing some of my work using HTML, CSS, and JavaScript. There wi
 
 ![image](assets/images/about-page.png)
 
-Access my portfolio here: https://vxmao87.github.io/Bootstrap-Portfolio/
+Access my portfolio here: https://vxmao87.github.io/Bootstrap-Portfolio-New/
